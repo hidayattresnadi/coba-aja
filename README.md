@@ -1,1 +1,1 @@
-aku adalah api
+aku adalah api dan air
